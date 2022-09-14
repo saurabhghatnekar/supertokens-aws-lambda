@@ -1,1 +1,2 @@
-# supertokens-aws-lambda
+# Supertokens with Aws Lambda
+
